@@ -1,0 +1,211 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="헤더 파일">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="FileExam12.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="FileExam11.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="1차원예제01.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="1차원예제02.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="1차원예제03.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="1차원예제04.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="1차원예제05.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Array_Average.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Array_element_assign.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Array_element_sum.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Array_for.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Array_for_reverse.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Array_homework.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Array_int.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Array_invalid_index.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Array_max_min.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Array_multiply_two.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="array_size.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Array_Sum.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="FileExam01.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="FuncExam01.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="FuncExam02.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="FuncExam03.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="FuncExam04.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="FuncExam05.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="FuncExam06.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="FunctionPointer.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Pointer01.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Pointer02.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Pointer03.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Pointer04.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Pointer05.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Pointer06.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Pointer07.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Pointer08.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Pointer09.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Pointer10.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Pointer11.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Pointer12.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Pointer13.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Pointer14.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="PointerBasic01.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="PointerMulti01.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="PointerMulti02.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="PointerOffset01.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="StructExam01.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="StructExam02.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="StructExam03.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="StructExam04.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="StructExam05.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="StructExam06.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="StructExam07.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="StructExam08.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="StructExam09.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="StructExam10.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="two_array.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="two_dimensional_array.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="two_dimensional_array_assign.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="two_dimensional_array_for.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="two_dimensional_array_for_reverse.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="two_dimensional_array_init.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="two_dimensional_array_invalid_index.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="two_dimensional_array_size.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Angel.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
